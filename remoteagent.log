@@ -1,0 +1,1 @@
+remoteagent.exe: 2018/05/09 15:04:23 main.go:117: failed to execute 'websrv.exe' '[websrv.exe -port 8081 -webRoot C:\Users\oneumyvakin\browser-efficiency-test\bin]': exit status 2

@@ -1,0 +1,245 @@
+{
+   "checksum": "6299771c817f36891d944bb491c51dee",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13162561504120191",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13162561504537315",
+                  "id": "9",
+                  "meta_info": {
+                     "guid": "446993c4-a21e-4ef4-84d1-836fe32b5fa7",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7be02a113b7a8e69f97b3c09427a26771afcf7be.png",
+                     "imageDataType": "2",
+                     "imageID": "89607ABBC439C285E554889F7B6BA85856C5D3BDB96909ED3D513A3AC15A831F",
+                     "imageType": "2",
+                     "partner_id": "yandex_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7be02a113b7a8e69f97b3c09427a26771afcf7be.png",
+                     "partner_url": "http://www.yandex.ru/?clid=9403",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/yandex_ru",
+                     "revision": "20171003",
+                     "server_position": "1"
+                  },
+                  "name": "Яндекс",
+                  "type": "url",
+                  "url": "http://www.yandex.ru/"
+               }, {
+                  "date_added": "13162561504538003",
+                  "id": "10",
+                  "meta_info": {
+                     "guid": "8423841e-bb6d-481e-bf14-94c4737f13c8",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/2a6f750989e272fd62d419e7332b1365aed98add.png",
+                     "imageDataType": "2",
+                     "imageID": "FE8D31B1581DF250703AC0EBCDCCB81B4CA7EFC7BD97FAAEA64F75B9D9A22C08",
+                     "imageType": "2",
+                     "partner_id": "google_search_ru_en",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/2a6f750989e272fd62d419e7332b1365aed98add.png",
+                     "partner_url": "https://www.google.ru/search?client=opera&sourceid=opera",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/google_search_ru_en",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "Google Search",
+                  "type": "url",
+                  "url": "https://www.google.ru/"
+               }, {
+                  "date_added": "13162561504538511",
+                  "id": "11",
+                  "meta_info": {
+                     "guid": "23517cc1-0bad-4c75-a5e9-5bab31670bbd",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "partner_url": "https://redir.opera.com/speeddials/partner/aliexpress_com_ru",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_ru",
+                     "revision": "20171003",
+                     "server_position": "3"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13162561504539132",
+                  "id": "12",
+                  "meta_info": {
+                     "guid": "494c9d5b-c0ec-4678-9ea9-35cec4bbb082",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/be52714a9d908855b605aa7091e0b98b9be3e253.png",
+                     "imageDataType": "2",
+                     "imageID": "8E3F34465BB7D615375565B1C78870648D55F174D4FA58F5B4B2830A35574B23",
+                     "imageType": "2",
+                     "partner_id": "auto_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/be52714a9d908855b605aa7091e0b98b9be3e253.png",
+                     "partner_url": "https://auto.ru/?from=opera_speeddial&utm_source=opera_speeddial",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/auto_ru",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "Авто.ру",
+                  "type": "url",
+                  "url": "https://auto.ru/"
+               }, {
+                  "date_added": "13162561504539620",
+                  "id": "13",
+                  "meta_info": {
+                     "guid": "ff72acfd-e9c1-484d-826c-a3acde41b6f4",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/6fc66051cfbb8b00aea5632a9073d10cf748ba2d.png",
+                     "imageDataType": "2",
+                     "imageID": "76B2AF33092AE361E1E1BCD2D9C91AA5466CCCFBE94452C6BFA11164BD609227",
+                     "imageType": "2",
+                     "partner_id": "rambler_ru_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/6fc66051cfbb8b00aea5632a9073d10cf748ba2d.png",
+                     "partner_url": "http://www.rambler.ru/?utm_source=r10&utm_medium=distribution&utm_content=e01&utm_campaign=a13&_openstat=b3BlcmE7OztzcGVlZGRpYWw",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/rambler_ru_ru",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Рамблер",
+                  "type": "url",
+                  "url": "http://www.rambler.ru/"
+               }, {
+                  "date_added": "13164696559387726",
+                  "id": "18",
+                  "meta_info": {
+                     "guid": "42e8074f-99cc-4f3e-82cd-916b65916d8c",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/dfb8e26cece0bc9b48746878a1da78dee32fc104.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/dfb8e26cece0bc9b48746878a1da78dee32fc104.png",
+                     "partner_url": "http://www.booking.com/index.html?aid=343337&label=operasoft-sdO15-343337&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_ru",
+                     "revision": "20180329",
+                     "server_position": "6"
+                  },
+                  "name": "Бронирование отелей",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               }, {
+                  "date_added": "13162561504540043",
+                  "id": "14",
+                  "meta_info": {
+                     "guid": "1bb2e8e2-8c8a-4ed5-8874-47272fa2ae38",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/57641e0e4536fee0d9c3227f2ca89ac92aee49bc.png",
+                     "imageDataType": "2",
+                     "imageID": "A82915EF8308BCA52471C1FA6A702C43A44FB7F5237FC5DFFB8E113DA1FFF82C",
+                     "imageType": "2",
+                     "partner_id": "lamoda_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/57641e0e4536fee0d9c3227f2ca89ac92aee49bc.png",
+                     "partner_url": "https://apycomm.com/click/5847be528b30a852558b456a/63073/150698/subaccount",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/lamoda_ru",
+                     "revision": "20171003",
+                     "server_position": "7"
+                  },
+                  "name": "Lamoda",
+                  "type": "url",
+                  "url": "http://www.lamoda.ru/"
+               }, {
+                  "date_added": "13164696559390843",
+                  "id": "19",
+                  "meta_info": {
+                     "guid": "edfb8c94-1d14-44cf-bd55-2b51f80e1cc6",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8080a5f6d9858c7b395873d4f865edb276475247.png",
+                     "imageDataType": "2",
+                     "imageID": "72FD35AE8C469EAF4EAA441F5F2595AFCDB38736820D08E1A658131EC06E84C2",
+                     "imageType": "2",
+                     "partner_id": "bonprix_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8080a5f6d9858c7b395873d4f865edb276475247.png",
+                     "partner_url": "https://n.apsale.net/click/5878baa58b30a8e84a8b45a1/118845/150698/opera-sd",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/bonprix_ru",
+                     "revision": "20171003",
+                     "server_position": "8"
+                  },
+                  "name": "Bonprix",
+                  "type": "url",
+                  "url": "https://www.bonprix.ru/"
+               }, {
+                  "date_added": "13162561504540476",
+                  "id": "15",
+                  "meta_info": {
+                     "guid": "8fa2f34c-0118-4bb3-aee4-964d4fc06ece",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/2ce43a8210882bd90682c5e89f3606364e881e3e.png",
+                     "imageDataType": "2",
+                     "imageID": "17B18C7759B4963BC0AE043E42EC3AB8CE1BCBA0ED2F4D0353573DAD4A87D38D",
+                     "imageType": "2",
+                     "partner_id": "stoloto_ru",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/2ce43a8210882bd90682c5e89f3606364e881e3e.png",
+                     "partner_url": "https://apyecom.com/click/58a1bee98b30a8a7738b4574/125540/150698/sd",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/stoloto_ru",
+                     "revision": "20180403",
+                     "server_position": "9"
+                  },
+                  "name": "Stoloto",
+                  "type": "url",
+                  "url": "https://www.stoloto.ru/"
+               } ],
+               "date_added": "13162561504503137",
+               "date_modified": "13164696559390843",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "0a4db35f-0363-4385-95c4-334c6de66f67"
+               },
+               "name": "ONEUMYVAKIN-W10",
+               "type": "folder"
+            } ],
+            "date_added": "13162561504503055",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13162561504503056",
+            "date_modified": "0",
+            "id": "7",
+            "name": "Корзина",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13162561504503053",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Несортированные закладки",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13162561504503054",
+            "date_modified": "0",
+            "id": "5",
+            "name": "Другие закладки",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13162561504120206",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Импортированные закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13162561504120209",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Закладки на мобильном",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

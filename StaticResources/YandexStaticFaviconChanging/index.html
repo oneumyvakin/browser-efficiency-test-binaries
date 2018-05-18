@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Favicon animation test</title>
+	</head>
+	<body>		
+		<script>
+			var link = top.document.createElement("link");
+			link.type = "image/x-icon";
+			link.rel = "shortcut icon";
+			
+			function sleep(ms) {
+				return new Promise(resolve => setTimeout(resolve, ms));
+			}
+
+			async function changeIcon(link) {
+				trg1 = "favicon1.ico";
+				trg2 = "favicon2.png";				
+				
+				link.href = trg1;
+				top.document.getElementsByTagName("head")[0].appendChild(link);
+				console.log(link.href);
+				await sleep(2000);
+										
+				link.href = trg2;
+				top.document.getElementsByTagName("head")[0].appendChild(link);
+				console.log(link.href);
+				await sleep(2000);		
+			}
+			
+			async function changeIconLoop() {
+				while (true) { 
+					await changeIcon(link);
+				}		
+			}
+			
+			changeIconLoop();
+		</script>
+	</body>
+</html>

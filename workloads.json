@@ -1,0 +1,61 @@
+[	
+	{
+		"Name": "benchmark_v3_8",
+		"Scenarios": [
+			{
+				"ScenarioName": "YandexStaticDemoYandexRu",
+				"Tab": "new",
+				"Duration": 10
+			}, 
+			
+			{
+				"ScenarioName": "YandexStaticDemoTechRadar",
+				"Tab": "new",
+				"Duration": 50
+			},			
+
+			{
+				"ScenarioName": "YandexStaticDemoVkCom",
+				"Tab": "new",
+				"Duration": 70
+			},		
+
+			{
+				"ScenarioName": "YandexStaticFaviconChanging",
+				"Tab": "new",
+				"Duration": 5
+			},
+			
+			{
+				"ScenarioName": "YandexStaticDemo3dnewsRu2",
+				"Tab": "new",
+				"Duration": 20
+			},
+			
+			{
+				"ScenarioName": "YandexStaticDemoReddit",
+				"Tab": "new",
+				"Duration": 60
+			}, 
+
+			{
+				"ScenarioName": "YandexStaticSmoothScrolling",
+				"Tab": "new",
+				"Duration": 60
+			},
+
+			{
+				"ScenarioName": "YandexStaticDemoHabrahabrRu",
+				"Tab": "new",
+				"Duration": 70
+			},			
+
+			{
+				"ScenarioName": "YandexStaticDemoYouTube6",
+				"Tab": "new",
+				"Duration": 427
+			}
+
+		]
+	} 
+]

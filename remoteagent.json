@@ -1,0 +1,6 @@
+{
+	"listen": "",
+	"host": "localhost",
+	"port": "8086",
+	"portTls": "8087"
+}
