@@ -1,0 +1,30 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.19t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+NPSWF64_29_0_0_171.dll|$
+C:\WINDOWS\system32\Macromed\Flash\NPSWF64_29_0_0_171.dll|$
+29.0.0.171|$
+1525778766770|0|0|0|0|$
+Shockwave Flash 29.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files\MICROS~1\Office15\NPSPWRAP.DLL|$
+1390439182000|$
+c:\Program Files\Microsoft Silverlight\5.1.50907.0\npctrl.dll|$
+1493827322000|$
+c:\Program Files\Microsoft Silverlight\5.1.50907.0\npctrlui.dll|$
+1493827322000|$
+C:\Program Files\Java\jre-10.0.1\bin\plugin2\npjp2.dll|$
+1524802986784|$
+C:\Program Files\Java\jre-10.0.1\bin\dtplugin\npdeployJava1.dll|$
+1524802986571|$
+C:\Users\oneumyvakin\AppData\Local\Google\Update\1.3.33.17\npGoogleUpdate3.dll|$
+1526614646922|$
