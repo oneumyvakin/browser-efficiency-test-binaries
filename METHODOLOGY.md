@@ -4,7 +4,7 @@
 1. youtube.com
 1. techradar.com
 1. reddit.com
-1. 3dnews.ru
+1. ixbt.com
 1. vk.com
 1. habrahabr.ru
 
